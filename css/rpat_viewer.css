@@ -1,0 +1,35 @@
+/*!
+ * Styles defined for the RPAT Viewer application
+ */
+
+h5 span {
+    font-size: 14px;
+    }
+.pietitle {
+    font-weight: bold;
+    }
+.bartitle {
+    font-weight: bold;
+    }
+.subtitle {
+    font: 11px;
+    color: grey;
+    }
+.stat {
+    font: 11 px;
+    font-weight: bold;
+    color: black;
+    }
+.info {
+    cursor: url(img/info.png), auto;
+    }
+.readme {
+    float:right;
+    }
+.pie-slice text {
+    font-size: 11px;
+    fill: black;
+    }
+.pop-crsr {
+    cursor:help
+    }
